@@ -52,4 +52,4 @@ Frontend byl sestaven jako Next.js statický export. Na Vercelu po nasazení ov�
 
 ## Stav repozitáře
 
-Zatím je nahraný pouze tento README. Zdrojové soubory aplikace a napojení Vercelu zbývá dokončit.
+Zdrojové soubory aplikace a kopie Cloudflare backendu jsou nahrané. Frontend je připravený pro Vercel se statickým exportem a externí proxy k původnímu backendu.
