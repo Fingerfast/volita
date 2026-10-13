@@ -1,0 +1,15 @@
+{
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "rewrites": [
+    {
+      "source": "/api/posts",
+      "destination": "https://tymova-nastenka.janik-int.chatgpt.site/api/posts"
+    },
+    {
+      "source": "/api/images/:path*",
+      "destination": "https://tymova-nastenka.janik-int.chatgpt.site/api/images/:path*"
+    }
+  ]
+}
