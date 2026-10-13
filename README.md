@@ -49,3 +49,7 @@ Původní veřejná aplikace nadále funguje na https://tymova-nastenka.janik-in
 ## Ověření
 
 Frontend byl sestaven jako Next.js statický export. Na Vercelu po nasazení ověřte vytvoření příspěvku, změnu stavu a nahrání screenshotu přes externí proxy; nasazení ani tuto proxy zatím nebylo možné otestovat.
+
+## Stav repozitáře
+
+Zatím je nahraný pouze tento README. Zdrojové soubory aplikace a napojení Vercelu zbývá dokončit.
